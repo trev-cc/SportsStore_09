@@ -1,0 +1,10 @@
+/Volumes/Ironman/WT/Class/Spring 2018/Code/3312/pro-asp.net-core-mvc-2-master/09 - SportsStore - Navigation/SportsStore/SportsStore/bin/Debug/netcoreapp2.0/SportsStore.deps.json
+/Volumes/Ironman/WT/Class/Spring 2018/Code/3312/pro-asp.net-core-mvc-2-master/09 - SportsStore - Navigation/SportsStore/SportsStore/bin/Debug/netcoreapp2.0/SportsStore.runtimeconfig.json
+/Volumes/Ironman/WT/Class/Spring 2018/Code/3312/pro-asp.net-core-mvc-2-master/09 - SportsStore - Navigation/SportsStore/SportsStore/bin/Debug/netcoreapp2.0/SportsStore.runtimeconfig.dev.json
+/Volumes/Ironman/WT/Class/Spring 2018/Code/3312/pro-asp.net-core-mvc-2-master/09 - SportsStore - Navigation/SportsStore/SportsStore/bin/Debug/netcoreapp2.0/SportsStore.dll
+/Volumes/Ironman/WT/Class/Spring 2018/Code/3312/pro-asp.net-core-mvc-2-master/09 - SportsStore - Navigation/SportsStore/SportsStore/bin/Debug/netcoreapp2.0/SportsStore.pdb
+/Volumes/Ironman/WT/Class/Spring 2018/Code/3312/pro-asp.net-core-mvc-2-master/09 - SportsStore - Navigation/SportsStore/SportsStore/obj/Debug/netcoreapp2.0/SportsStore.csproj.CoreCompileInputs.cache
+/Volumes/Ironman/WT/Class/Spring 2018/Code/3312/pro-asp.net-core-mvc-2-master/09 - SportsStore - Navigation/SportsStore/SportsStore/obj/Debug/netcoreapp2.0/SportsStore.AssemblyInfoInputs.cache
+/Volumes/Ironman/WT/Class/Spring 2018/Code/3312/pro-asp.net-core-mvc-2-master/09 - SportsStore - Navigation/SportsStore/SportsStore/obj/Debug/netcoreapp2.0/SportsStore.AssemblyInfo.cs
+/Volumes/Ironman/WT/Class/Spring 2018/Code/3312/pro-asp.net-core-mvc-2-master/09 - SportsStore - Navigation/SportsStore/SportsStore/obj/Debug/netcoreapp2.0/SportsStore.dll
+/Volumes/Ironman/WT/Class/Spring 2018/Code/3312/pro-asp.net-core-mvc-2-master/09 - SportsStore - Navigation/SportsStore/SportsStore/obj/Debug/netcoreapp2.0/SportsStore.pdb
